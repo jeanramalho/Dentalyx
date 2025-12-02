@@ -23,3 +23,5 @@
     - Tela inicial: Dashboard de dados, com resumos e gráficos de estoque, agendamentos, financeiro, e o que mais for necessário.
 
     - Fincanceiro: Terá o controle financeiro da clínica, onde pegará automáticamente valores das consultas pagas, e também será possível lançar receitas, retiradas e despesas, pagamentos de funcionários, contas de manutenção, compra de equipamento e tudo o mais que um programa de gerenciamento financeiro completo faz.
+
+    - Estoque: Terá o sistema de genrenciamento de estoque da clínica, e avisará com a quantidade de tempo pré determinada na configuração quando iténs estiverem faltando, no quadro de notificações que ficará no dashboard inicial.
