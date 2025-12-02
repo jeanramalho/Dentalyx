@@ -28,4 +28,4 @@
 
     - Usuários: Onde o dono da clínica poderá criar e gerenciar usuários e permissões de acesso ao programa.
 
-    -
+    - Dados da clínica: Painel onde o dono da clínica poderá inserir os dados da clínica para registro e esses dados sairão em documentos como receitas, notas fiscais, cabeçalhos de documentos e tudo que for necessário.
