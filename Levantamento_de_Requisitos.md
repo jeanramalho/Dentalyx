@@ -35,3 +35,5 @@
     - Pacientes: Painel com gerenciamento dos pacientes da clínica, podendo ver qual procedimento o paciente fez, quais as consultas, qual tratamento ele está fazendo e tudo sobre o paciente e a clínica.
 
 - Após cadastrar todos os dados da clínica corretamente, o dono da clínica poderá adicionar usuários com suas devidas permissões ou cargos.
+
+    - Painel de Secretária: O painel de secretária terá quase todas as visualizações possíveis, a secretária precisa conseguir mudar datas de consultas, agendar e cancelar consultas e avaliações, enviar e receber documentações para os dentistas, ver e gerenciar os estoque.
