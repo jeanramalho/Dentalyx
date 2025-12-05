@@ -33,3 +33,5 @@
     - Dados da clínica: Painel onde o dono da clínica poderá inserir os dados da clínica para registro e esses dados sairão em documentos como receitas, notas fiscais, cabeçalhos de documentos e tudo que for necessário.
 
     - Pacientes: Painel com gerenciamento dos pacientes da clínica, podendo ver qual procedimento o paciente fez, quais as consultas, qual tratamento ele está fazendo e tudo sobre o paciente e a clínica.
+
+- Após cadastrar todos os dados da clínica corretamente, o dono da clínica poderá adicionar usuários com suas devidas permissões ou cargos.
