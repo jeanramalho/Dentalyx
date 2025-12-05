@@ -8,6 +8,8 @@
 
 - O software terá uma landingpage inicial de apresentação, que fará uma breve apresentação do projeto e terá o botão para entrar que levará para a página de login.
 
+- O software terá um sistema de compartilhamento de notificações, documentações externas e internas, e tudo o que for necessário. Por exemplo, um médico pode enviar um documento, tipo um pedido de exame para a secretária imprimir, ou a secretária pode enviar algum documento para o médico caso seja necessário.
+
 - O software terá um painal superadmin em uma url secreta, para o dono do software controlar, gerenciar, liberar ou bloquear assinaturas manualmente, mas o software também realizará o gerenciamento automaticamente de acordo os requisitos pré estabelicidos.
 
 - Na landinpage terá a opção de assinar um plano, teremos planos mensais, anuais ou vitalícios.
